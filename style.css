@@ -1,0 +1,117 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif  ;
+    height: 1500px;
+  }
+  .container {
+    width: 550px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  .paragraf {
+    text-align: justify;
+    font-size: 17px;
+  }
+  button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    width: 100px;
+  }
+  button:hover {
+    background-color: rgb(72, 72, 72);
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    width: 100px;
+  }
+  .contact {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .contact:hover {
+    color: white;
+  }
+  .download {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    /* margin-left: -5px; */
+  }
+  .download:hover {
+    text-decoration: none;
+    color: blue;
+  }
+
+  .icondownload {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    margin-left: 7px;
+    
+  }
+
+  .containerdownload {
+    margin-top: 10px;
+    height: 25px;
+    width: 145px;
+    line-height: 25px;
+    border-radius: 10px;  
+    
+  }
+
+  .containerlogo {
+    width: 285px;
+    margin: auto;
+    margin-top: 10px;
+   
+  }
+
+  .instagram {
+    width: 70px;
+    height: 70px;
+  }
+  .facebook {
+    width: 70px;
+    height: 70px;
+  }
+  .linkedin {
+    width: 70px;
+    height: 70px;
+  }
+  .twitter {
+    width: 35px;
+    height: 35px;
+    margin-bottom: 17px;
+    margin-left: 11px; 
+  }
+
+  .foto {
+    width: 400px;
+    height: 660px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 0;
+    box-shadow: 0 0 20px 2px rgb(0, 0, 0);
+
+  }
+
+  .foto img {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .foto h1,p {
+    text-align: center;
+  }
+
+  .foto p {
+    font-size: 17px;
+  }
